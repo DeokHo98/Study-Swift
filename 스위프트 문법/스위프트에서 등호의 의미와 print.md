@@ -5,7 +5,7 @@
 
 =를 기준으로 오른쪽에있는걸 왼쪽으로 할당하는 의미    
 
-var a = 10     
+'var a = 10'  
 
 10을 a에 할당    
 
@@ -14,7 +14,7 @@ var a = 10
 중간에는 대문자/숫자 쓸수 있음    
 이걸 camel 케이스라 부름    
 
-var nameOfYou = "정덕호"     
+'var nameOfYou = "정덕호"'    
 
 # 키워드    
 약속어     
@@ -32,10 +32,14 @@ if
 
 # Hello, world 출력해보기    
 
-출력을 위한 코드 = print()    
+출력을 위한 코드 = print() 
+  
+'''
 
 print("Hello, world)    
 print("안녕하세요")    
 print(12345)    
 print(1+2)    
-print(3.14)    
+print(3.14)   
+
+'''
