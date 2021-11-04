@@ -4,11 +4,8 @@
 
 # 스위프트에서의 등호
 
-import Swift
-
 프로그래밍에서 사용하는 = 은 할당의 의미    
 =는 같다는 표현 x    
-
 =를 기준으로 오른쪽에있는걸 왼쪽으로 할당하는 의미    
 ```swift
 var a = 10
@@ -39,7 +36,7 @@ if
 # Hello, world 출력해보기    
 
 출력을 위한 코드 = print() 
-```swfit
+```swift
 print("Hello, world)    
 print("안녕하세요")    
 print(12345)    
