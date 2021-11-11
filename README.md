@@ -88,3 +88,6 @@ https://inf.run/YyoR
 5. [세트](/스위프트%20문법%20기초/컬렉션/세트.md)
 
 6. [keyValuePairs (필수x)](/스위프트%20문법%20기초/컬렉션/keyValuePairs%20(필수x).md)
+
+## 열거형
+
