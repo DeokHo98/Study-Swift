@@ -1,4 +1,4 @@
-# TIL-Grammar-basic
+# TIL-swift-basic
 
 본문의 글은 인프런 앨런 Swift문법 마스터 스쿨(온라인) 부트캠프의 강의 영상을 본후 공부한 내용을 정리하여 기록한것입니다.
 https://inf.run/YyoR
