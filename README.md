@@ -177,7 +177,7 @@ https://inf.run/YyoR
 
 9. [중첩타입](/스위프트%20문법%20중급/중첩타입/중첩타입.md)
 
-10. [self, Self](/스위프트%20문법%20중급/self%20vs%20Selfself%20vs%20Self.md)
+10. [self, Self](/스위프트%20문법%20중급/self%20vs%20Self/self%20vs%20Self.md)
 
 ## 클로져
 
